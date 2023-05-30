@@ -19,6 +19,8 @@ namespace BLL
             dalObj.CloseConnection();
         
         }
+        public void test()
+        { }
 
 
     }
